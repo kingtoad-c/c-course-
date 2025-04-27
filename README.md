@@ -20,9 +20,9 @@ The course is designed to cover a wide range of C++ topics, including basic synt
 To start your learning journey, simply follow these steps:
 
 1. **Download the PDF**:
-   - Download the full C++ course PDF guide from **cplusplus.com** by clicking the link below:
+   - Download the full C++ course PDF guide from **here** by clicking the link below:
    
-   [Download C++ Course PDF](https://www.cplusplus.com/doc/tutorial/)
+   [Download C++ Course PDF](https://github.com/kingtoad-c/c-course-/blob/main/tutorial.pdf)
    
 2. **Open the PDF**:
    - Open the downloaded PDF file using any PDF reader on your device.
